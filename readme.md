@@ -1,4 +1,4 @@
-# TransitOps: A Hackathon Post-Mortem
+# TransitOps: A Hackathon Experience
 
 This project was a hackathon experiment to build a transport operations platform, online Hackathon by Odoo, My 1st Hackathon Experience on 12 July, 2026.
 
@@ -11,7 +11,7 @@ I started this project with zero coding experience in Web Dev, even though I am 
 At a certain point, the complexity of the requirements versus my ability to debug the system became overwhelming. I reached a wall where it was impossible to keep up with the technical debt, so I decided to conclude the project here. 
 
 ### Git and GitHub Side
-I have personally spend over a week Learning Git and Github, not just learning commands, but understanding the foundations how it work under the Hood. So , I myself pushed the code in This Repo
+I have personally spent over a week Learning Git and Github, not just learning commands, but understanding the foundations how it work under the Hood. So , I myself pushed the code in This Repo without seeking assistance from AI.
 
 ### The Tech Stack
 * **Language:** Python
