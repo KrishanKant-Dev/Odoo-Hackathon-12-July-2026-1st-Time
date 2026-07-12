@@ -1,0 +1,5 @@
+Reg Number,Model,Type,Max Capacity (kg),Odometer (km),Acquisition Cost ($),Status
+V-001,Ford Transit,Van,1000,12000,25000,Available
+V-002,Volvo Truck,Heavy Truck,5000,45000,85000,On Trip
+V-003,Sprinter Van,Van,1500,8500,32000,In Shop
+V-005,tata Truck ,Heavy Truck,7000,7000,24000,Available
